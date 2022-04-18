@@ -108,3 +108,6 @@ less/
 
 #CodeKit
 config.codekit3
+
+# DS Store
+*.DS_Store
