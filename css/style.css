@@ -206,7 +206,7 @@ footer p {
 html {
   font-family: 'Poppins', sans-serif;
 }
-body {
+html body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
