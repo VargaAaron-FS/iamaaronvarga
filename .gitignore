@@ -104,7 +104,7 @@ dist
 .tern-port
 
 # LESS
-/less
+less/
 
 #CodeKit
 config.codekit3
